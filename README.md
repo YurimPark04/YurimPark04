@@ -1,8 +1,7 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Input%20text&textBg=false)
+![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=FullStack%20&textBg=false)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 000입니다
 ### ✌ 열정 넘치는 개발자 000 입니다
@@ -13,6 +12,7 @@
 <!-- Body -->
 
 ### 🦾 Skills
+
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
