@@ -1,8 +1,5 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=FullStack%20&textBg=false)
-
-
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 000입니다
 ### ✌ 열정 넘치는 개발자 000 입니다
 
