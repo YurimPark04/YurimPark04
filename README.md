@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Backend+Developer+with+a+Passion+for+Data+Analytics+and+Science&descSize=21&descAlign=50&descAlignY=60)
 
-### 안녕하세요, 백엔드 개발자 박유림입니다
+### 안녕하세요, 데이터 분석가 박유림입니다
 
 
 
