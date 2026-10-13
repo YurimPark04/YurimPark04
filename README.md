@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Yurim Park — Data Analytics, Machine Learning, NLP, and AI Engineering" />
 </div>
@@ -16,9 +15,9 @@
 
 ## Direction
 
-| FOUNDATION | FOCUS | GROWING TOWARD |
-| :--- | :--- | :--- |
-| **Data Analytics** | **Machine Learning · NLP** | **AI Engineering** |
+| FOUNDATION                                  | FOCUS                                          | GROWING TOWARD                              |
+| :------------------------------------------ | :--------------------------------------------- | :------------------------------------------ |
+| **Data Analytics**                          | **Machine Learning · NLP**                     | **AI Engineering**                          |
 | 데이터 탐색과 시각화로 패턴과 인사이트 발견 | 텍스트 데이터를 이해하고 문제에 맞는 모델 실험 | LLM, RAG, Agent 기반 애플리케이션 구조 학습 |
 
 <br />
