@@ -1,0 +1,38 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F16"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="723" y1="0" x2="1096" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="16" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="248.5" rx="15.25" stroke="#FFFFFF" stroke-opacity="0.09" stroke-width="1.5"/>
+
+  <rect x="70" y="40" width="126" height="27" rx="13.5" fill="#58A6FF" fill-opacity="0.09" stroke="#58A6FF" stroke-opacity="0.25"/>
+  <text x="88" y="58" fill="#79C0FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="750" letter-spacing="1.7">STUDY PROJECT</text>
+  <text x="70" y="113" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="35" font-weight="720" letter-spacing="-0.5">LANGGRAPH AGENT</text>
+  <text x="70" y="149" fill="#B1BAC4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Local LLM-based RAG and multi-agent workflow for legal documents.</text>
+  <text x="70" y="198" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="0.6">PYTHON   LANGGRAPH   LANGCHAIN   OLLAMA   CHROMA</text>
+
+  <line x1="656" y1="42" x2="656" y2="208" stroke="#30363D"/>
+  <line x1="723" y1="126" x2="1086" y2="126" stroke="url(#line)" stroke-width="2"/>
+
+  <circle cx="723" cy="126" r="8" fill="#58A6FF"/>
+  <circle cx="844" cy="126" r="8" fill="#658DFB"/>
+  <circle cx="965" cy="126" r="8" fill="#786FF8"/>
+  <circle cx="1086" cy="126" r="8" fill="#8B5CF6"/>
+  <text x="697" y="91" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">RETRIEVE</text>
+  <text x="818" y="91" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">EVALUATE</text>
+  <text x="945" y="91" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">ROUTE</text>
+  <text x="1062" y="91" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">ANSWER</text>
+  <text x="715" y="171" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Agentic RAG</text>
+  <text x="825" y="171" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Self-RAG</text>
+  <text x="925" y="171" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Adaptive Routing</text>
+  <text x="1062" y="171" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Tool Calling</text>
+
+  <text x="1090" y="218" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650" text-anchor="end">VIEW REPOSITORY  ↗</text>
+</svg>

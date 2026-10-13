@@ -1,0 +1,43 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101722"/>
+      <stop offset="1" stop-color="#0B0F16"/>
+    </linearGradient>
+    <linearGradient id="path" x1="109" y1="0" x2="1090" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.68" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#30363D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#card)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="218.5" rx="15.25" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+  <line x1="109" y1="70" x2="1090" y2="70" stroke="url(#path)" stroke-width="2"/>
+
+  <circle cx="109" cy="70" r="7" fill="#58A6FF"/>
+  <circle cx="405" cy="70" r="7" fill="#658DFB"/>
+  <circle cx="702" cy="70" r="11" fill="#8B5CF6" fill-opacity="0.18"/>
+  <circle cx="702" cy="70" r="7" fill="#8B5CF6"/>
+  <circle cx="1090" cy="70" r="6" fill="#0D1117" stroke="#6E7681" stroke-width="2"/>
+
+  <text x="76" y="42" fill="#58A6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">01 / ACADEMIC BASE</text>
+  <text x="76" y="113" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Data Analytics · NLP</text>
+  <text x="76" y="141" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Undergraduate projects · ML</text>
+  <text x="76" y="170" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Built foundations through text-focused projects</text>
+
+  <text x="372" y="42" fill="#668CFB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">02 / CURRENT WORK</text>
+  <text x="372" y="113" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">DICubeML</text>
+  <text x="372" y="141" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Python · scikit-learn · ML Engine</text>
+  <text x="372" y="170" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Running machine learning inside the solution</text>
+
+  <rect x="647" y="24" width="110" height="25" rx="12.5" fill="#8B5CF6" fill-opacity="0.12" stroke="#8B5CF6" stroke-opacity="0.35"/>
+  <text x="661" y="41" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" font-weight="750" letter-spacing="1.4">03 / LEARNING</text>
+  <text x="669" y="113" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">LLM Systems</text>
+  <text x="669" y="141" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">RAG · Agent · Orchestration</text>
+  <text x="669" y="170" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Learning how components become systems</text>
+
+  <text x="1003" y="42" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">04 / NEXT</text>
+  <text x="1003" y="113" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">LLM Applications</text>
+  <text x="1003" y="141" fill="#6E7681" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Build · Serve · Improve</text>
+  <text x="1003" y="170" fill="#565E68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">My next engineering direction</text>
+</svg>
